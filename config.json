@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartfender",
+        "uuid": 6528145,
+        "checksum": "g1wzlh"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
